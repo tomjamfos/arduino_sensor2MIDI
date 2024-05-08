@@ -2,7 +2,7 @@
 #include "EWMA.h"
 
 const int numSensors = 4; //number of sensors to read from
-const int sampleRate = 50; //set rate to read sensors
+const int sampleRate = 50; //set rate to read sensors in ms
 
 const int sensorMin = 950; //minimum sensor input value (0 by default)
 const int sensorMax = 1023; //maximum sensor input value (1023 by default)
