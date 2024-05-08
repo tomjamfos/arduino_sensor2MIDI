@@ -9,4 +9,5 @@ of the sketch & plotting the raw sensor values, can be usfull for judging this).
 The smoothed sensor values sent via MIDI control change messages can be used for controlling parameters in a software application 
 such as Max/MSP or PureData. The sketch makes use of the MidiUSB library (https://www.arduino.cc/reference/en/libraries/midiusb/) 
 to acheive this.
+
 ![alt text](https://github.com/tomjamfos/arduino_sensor2MIDI/blob/main/_arduino_LDR.jpg "Input to Arduino from 4 LDRs")
